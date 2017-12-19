@@ -347,7 +347,7 @@
             "filter": true,
             "images": [
               {
-                "tags": "Empresas Parceiras",
+                "tags": "Empresas Adquiridas pelo FIDC",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -358,7 +358,7 @@
                 "active": false
               },
               {
-                "tags": "Empresas Parceiras",
+                "tags": "Empresas Adquiridas pelo FIDC",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
